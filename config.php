@@ -2,7 +2,7 @@
 // Configurație bază de date
 $servername = "localhost";
 $username = "admin";
-$password = "wRM6308knaS2!8xu";
+$password = "******";
 $dbname = "eshop";
 
 // Crearea conecțiunii cu baza de date  
