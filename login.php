@@ -10,7 +10,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
   // Database connection
   $servername = "localhost";
   $username = "admin";
-  $password = "wRM6308knaS2!8xu";
+  $password = "******";
   $dbname = "eshop";
   $conn = mysqli_connect($servername, $username, $password, $dbname);
   if (!$conn) {
