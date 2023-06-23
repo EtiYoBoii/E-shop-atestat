@@ -43,7 +43,7 @@ session_start();
             $host = 'localhost';
             $dbname = 'eshop';
             $username = 'admin';
-            $password = 'wRM6308knaS2!8xu';
+            $password = '******';
 
             $dsn = "mysql:host=$host;dbname=$dbname;charset=utf8mb4";
 
